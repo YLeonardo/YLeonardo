@@ -2,15 +2,15 @@
 
 - 🏆 My main areas of interest are:
 
-- Cybersecurity
-- Data Scientist: Big Data, Hadoop
-- Database administrator
-- SQL
-- Java
-- Integration and scripting: Python, Perl
-- Machine learning: MatLab, Python
-- System developer: C, parallelism, concurrency, memory management
-- UX Developer: HTML, CSS, Javascript, React
+     - Cybersecurity
+     - Data Scientist: Big Data, Hadoop
+     - Database administrator
+     - SQL
+     - Java
+     - Integration and scripting: Python, Perl
+     - Machine learning: MatLab, Python
+     - System developer: C, parallelism, concurrency, memory management
+     - UX Developer: HTML, CSS, Javascript, React
 
 - ✨ I’m currently studying the career of computer systems, I’m also studying to be a full stack developer.
 
