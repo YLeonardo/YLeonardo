@@ -18,7 +18,7 @@
 
 - 🔥 The phrases "never stop learning" and "greater effort greater reward" have marked me a lot and have helped me to improve as a person.
 
-- 📫 My contact is leostorm117@gmail.com
+- 📫 My contact is leonardguti17@gmail.com
 
 
 
