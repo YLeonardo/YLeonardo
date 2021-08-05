@@ -17,9 +17,3 @@
 - 🤝 I’m looking to collaborate with great people or companies that like to work in a team and that can join large projects to be as effective as possible in solving problems.
 
 - 🔥 The phrases "never stop learning" and "greater effort greater reward" have marked me a lot and have helped me to improve as a person.
-
-- 📫 My contact is leonardguti17@gmail.com
-
-
-
-
