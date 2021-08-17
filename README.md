@@ -5,7 +5,8 @@
 
 <h3 align="center">A developer passionate about technology.</h3>
 
-<p align="center"> 💼 Full-stack Developer </p>
+<p align="center"> 🎓 Student of Computer Systems Engineering </p>
+
 
 <h2>👩‍💻 Skills</h2>
 
