@@ -22,10 +22,8 @@
   <a href="https://gitlab.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40" height="40"/>
   <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
-</p>
+</p><br><br>
 
-    
-    
 <p align="center">
   <img src="https://raw.githubusercontent.com/beeman/beeman/master/under-construction.gif" alt="underconstruction"/>
 </p>
