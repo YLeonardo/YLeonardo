@@ -24,6 +24,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beeman/beeman/master/under-construction.gif" alt="underconstruction" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/beeman/beeman/master/under-construction.gif" alt="underconstruction"/>
 </p>
   
