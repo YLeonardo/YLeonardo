@@ -8,7 +8,7 @@
 <p align="center"> 🎓 Computer Systems Engineering </p>
 
 
-<h2>👩‍💻 Skills</h2>
+<h2>Skills</h2>
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
