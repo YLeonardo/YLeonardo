@@ -43,8 +43,8 @@
 </div>
 <br><br>
 <div align="center">
-  <!-- <a href="https://github.com/YLeonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YLeonardo&show_icons=true&theme=ADD_THEME_HERE&include_all_commits=true&count_private=true"/> -->
+  <a href="https://github.com/YLeonardo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YLeonardo&show_icons=true&theme=ADD_THEME_HERE&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLeonardo&layout=compact&langs_count=7&theme=ADD_THEME_HERE"/></a>
 </div>
 <!-- <br><br>
