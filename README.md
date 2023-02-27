@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">A developer passionate about technology.</h3>
-
-<p align="center"> 🎓 Computer Systems Engineering </p>
+<p align="center">
+  <a href="/"><img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%8E%93%20Computer%20Systems%20Engineering;Full-Stack%20Developer;Frontend%20Specialist&center=true&width=380&height=65"></a>
+</p>
 
 
 <h2>Skills</h2>
