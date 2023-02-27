@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to my profile!
+  Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -43,9 +43,9 @@
 </div>
 <br><br>
 <div align="center">
-  <a href="https://github.com/YLeonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YLeonardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLeonardo&layout=compact&langs_count=7&theme=tokyonight"/></a>
+  <!-- <a href="https://github.com/YLeonardo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YLeonardo&show_icons=true&theme=ADD_THEME_HERE&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YLeonardo&layout=compact&langs_count=7&theme=ADD_THEME_HERE"/></a>
 </div>
 <br><br>
 <p align="center">
