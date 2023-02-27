@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%8E%93%20Computer%20Systems%20Engineering;Full-Stack%20Developer;Frontend%20Specialist&center=true&width=380&height=65"></a>
+  <a href="https://github.com/YLeonardo"><img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%8E%93%20Computer%20Systems%20Engineering;Full-Stack%20Developer;Frontend%20Specialist&center=true&width=380&height=65"></a>
 </p>
 
 
