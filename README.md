@@ -38,7 +38,7 @@
 <a href="https://cloud.google.com/learn/what-is-kubernetes?hl=es-419#:~:text=en%20Google%20Cloud.-,Definici%C3%B3n%20de%20Kubernetes,en%20contenedores%20en%20cualquier%20lugar."><img align="center" alt="kubernetes" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/kubernetes/kubernetes-plain.svg">
 <a href="https://azure.microsoft.com/es-mx"><img align="center" alt="Azure" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/azure/azure-original.svg">
 <a href="https://cloud.google.com/?hl=es"><img align="center" alt="GCP" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/googlecloud/googlecloud-original.svg">
-<a href="https://aws.amazon.com/es/?nc2=h_lg"><img align="center" alt="AWS" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<a href="https://aws.amazon.com/es/?nc2=h_lg"><img align="center" alt="AWS" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/amazonwebservices/amazonwebservices-original.svg">
 <a href="https://git-scm.com/"><img align="center" alt="Git" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/git/git-original.svg">
 </div>
 <br><br>
