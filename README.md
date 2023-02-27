@@ -4,12 +4,12 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/YLeonardo"><img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%8E%93%20Computer%20Systems%20Engineering;Full-Stack%20Developer;Frontend%20Specialist&center=true&width=380&height=65"></a>
+  <a href="https://github.com/YLeonardo"><img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%8E%93%20Computer%20Systems%20Engineering;Full-Stack%20Developer;Frontend%20Specialist&center=true&width=800&height=110&size=30"></a>
 </p>
 
 
 <h2>Skills</h2>
-
+<br>
 <div style="display: inline_block" align="center">
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5"><img align="center" alt="HTML5" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/html5/html5-original.svg">
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img align="center" alt="CSS" height="40" width="50" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/css3/css3-original.svg">
