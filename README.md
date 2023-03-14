@@ -23,9 +23,6 @@
   <img align="center" alt="Sass" height="40" width="50" style="margin-bottom: 10px;" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/sass/sass-original.svg">
 </a>
 
-<a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="40" width="50" style="margin-bottom: 10px;" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/sass/sass-original.svg"></a>
-
-
 <a href="https://getbootstrap.com/" target="_blank">
   <img align="center" alt="Bootstrap" height="40" width="50" style="margin-bottom: 10px;" src="https://github.com/YLeonardo/YLeonardo/blob/main/icons/bootstrap/bootstrap-original.svg">
 </a>
