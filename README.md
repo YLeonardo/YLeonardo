@@ -7,7 +7,6 @@
   <a href="https://github.com/YLeonardo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&width=700&height=50&size=30&lines=%F0%9F%8E%93+Computer+Systems+Engineering;Full-Stack+Developer;Frontend+Specialist"></a>
 </p>
 
-
 <h2>Skills</h2>
 <br>
 <div style="display: inline_block" align="center">
@@ -139,4 +138,3 @@
 <p align="center">
   <img src="https://github.com/YLeonardo/YLeonardo/blob/main/gifs/under-construction.gif" alt="underconstruction"/>
 </p> -->
-  
